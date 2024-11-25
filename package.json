@@ -1,0 +1,15 @@
+{
+	"name": "faang-interview",
+	"version": "1.0.0",
+	"description": "repo that consist of a questions that faang asks",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"test:watch": "jest --watchAll"
+	},
+	"author": "tamagossi",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^29.7.0"
+	}
+}
